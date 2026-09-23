@@ -1,6 +1,6 @@
-#Just trying to figure things out#
+#Just trying to figure things out
 
-##this has been tough fr me at start but now I am ok with it## 
+##this has been tough fr me at start but now I am ok with it
 
 (can this be a link)
 
